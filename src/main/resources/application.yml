@@ -1,0 +1,4 @@
+stub:
+  server:
+    port: 8080
+    files: wiremock

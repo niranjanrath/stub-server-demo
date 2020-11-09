@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/service/student-details"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "StudentDetailsResponse.xml"
+  }
+}
